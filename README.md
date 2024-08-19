@@ -1,4 +1,4 @@
-# Learn Webdev Basics
+# Web Dev Learning Resources
 
 This repository is a collection of examples and exercises I did while learning web development.
 
