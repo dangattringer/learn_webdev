@@ -10,8 +10,10 @@ All the examples are in the [html](html) folder.
 
 I went through the [javascript.info](https://javascript.info/).
 
-Examples are in the [js](js) folder and come from  [exercism.org](https://exercism.org/tracks/javascript).
+Examples are in the [js/exercism](js/exercism) folder and come from  [exercism.org](https://exercism.org/tracks/javascript).
 
 ## TypeScript
+
+Examples are in the [ts/exercism](ts/exercism) folder and come from  [exercism.org](https://exercism.org/tracks/typescript).
 
 ## React
