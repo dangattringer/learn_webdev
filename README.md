@@ -1,12 +1,16 @@
 # Learn Webdev Basics
 
-## HTML
+## HTML & CSS
 
-I just went through [interneting is hard](https://internetingishard.netlify.app/html-and-css/) and did the examples. 
+I went through [Interneting Is Hard](https://internetingishard.netlify.app/html-and-css/) and did the examples.
 
-## CSS
+All the examples are in the [html](html) folder.
 
 ## JavaScript
+
+I went through the [javascript.info](https://javascript.info/).
+
+Examples are in the [js](js) folder and come from  [exercism.org](https://exercism.org/tracks/javascript).
 
 ## TypeScript
 
